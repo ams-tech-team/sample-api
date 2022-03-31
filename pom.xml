@@ -13,7 +13,7 @@
     </parent>
     <properties>
         <java.version>1.8</java.version>
-        <sp.version>2.1.3.RELEASE</sp.version>
+        <sp.version>2.5.12</sp.version>
         <springfox.version>2.9.2</springfox.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
